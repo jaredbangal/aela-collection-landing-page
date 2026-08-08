@@ -1,0 +1,12 @@
+:root{
+--font-display:'Cormorant','Georgia',serif;
+--font-body:'Montserrat','Avenir','Helvetica',sans-serif;
+--tracking-tight:-0.03em;
+--tracking-label:.22em;
+--leading-relaxed:1.7;
+--leading-snug:1.35;
+--text-label-sm:10.5px;--text-label:11px;--text-label-lg:12px;
+--text-body-sm:12.5px;--text-body:13.5px;--text-body-lg:14.5px;
+--text-h3:24px;--text-h2:44px;--text-h1:clamp(3rem,9vw,5.5rem);
+--weight-light:300;--weight-regular:400;--weight-medium:500;--weight-semibold:600;
+}

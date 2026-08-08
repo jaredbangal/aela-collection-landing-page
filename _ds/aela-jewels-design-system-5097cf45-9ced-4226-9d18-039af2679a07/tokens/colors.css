@@ -1,0 +1,12 @@
+:root{
+--cream:#FAF7F2;--parchment:#F3EDE3;--sand:#E7E0D5;--linen:#DCD3C3;
+--ink:#1C1917;--stone:#57534E;--fog:#8A8177;
+--gold:#A16207;--golddeep:#7C4D08;--champagne:#C9A96A;
+--sage:#7F918D;--moss:#4A5656;--sagelight:#E4EAE7;
+--surface-page:var(--cream);--surface-card:var(--cream);--surface-sunken:var(--parchment);--surface-dark:var(--moss);--surface-inkdark:var(--ink);
+--text-primary:var(--ink);--text-secondary:var(--stone);--text-muted:var(--fog);--text-oncream-inverse:var(--cream);
+--text-oncream-inverse-muted:rgba(250,247,242,.7);
+--border-default:var(--linen);--border-subtle:rgba(220,211,195,.7);
+--accent-primary:var(--gold);--accent-primary-hover:var(--golddeep);--accent-soft:var(--champagne);
+--focus-ring:var(--gold);
+}
